@@ -1,0 +1,28 @@
+.Download__title{
+    font-style: italic;
+
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.Download__undertitle{
+    font-style: italic;
+    font-size: 14px;
+}
+.Download__links{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+.Download{
+    background-color: #FFFFFF;
+}
+.f{
+    margin-bottom: 15px;
+}
+.s{
+    margin-bottom: 15px;
+}
+.Download__img-block{
+    text-align: center;
+}
